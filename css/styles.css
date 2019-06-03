@@ -1,8 +1,9 @@
 @import url('bootstrap.css');
 
-body{
-    background-color: grey
+*{
+    background-image: url('')
 }
+
 #rw1{
     background-color: grey
 }
@@ -11,4 +12,7 @@ body{
     font-weight: 60px;
 
      
+}
+.container{
+    background-color: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Penrose-dreieck.svg/250px-Penrose-dreieck.svg.png')
 }
