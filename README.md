@@ -28,4 +28,5 @@ when two sides of a triangle added together and are less than one the program wo
 ### License
 *{I acquired the licence from MIT.}*
 
-Copyright (c) {2019} **{Charles Onkoba}**
+ Copyright (c) {2019} **{Charles Onkoba}**
+
