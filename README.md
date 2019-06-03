@@ -1,6 +1,6 @@
 # IP-Project
 Moringa PREP Charles Osoro personal portfolio Individual Projects
-# {Portfolio}
+# {Triangle tracker}
 #### {It shows the previous projects in my portfolio}, {27 May, 2019}
 #### Author  **{Charles Onkoba}**
 ## Description
