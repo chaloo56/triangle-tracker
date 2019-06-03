@@ -17,7 +17,18 @@ Moringa PREP Charles Osoro personal Triangle tracker Individual Projects
 {Am available through chaloo56@gmail.com if there is any issue feel free to contact me.}
 
 ### BDD
-
+|Behavior           |Input value          |Result (Triangle)     |
+|___________________|_____________________|______________________|
+|All sides are equal|2,2,2                |Equilateral           |
+|Only two sides are | 2,2 5               | Isosceles            |
+|equal              |                     |                      |
+|None of the sides  | 2,3,4               |Scalene               |
+|are equal          |                     |                      |
+|The sum of two     | 2,2,4               |Not a triangle        |
+|sides are equal to |                     |                      |
+or less than the    |                     |                      |
+ value of a side    | 
+ 
 
 ### License
 *{I acquired the licence from MIT.}*
