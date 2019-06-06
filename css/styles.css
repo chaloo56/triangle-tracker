@@ -7,12 +7,17 @@
 #rw1{
     background-color: grey
 }
-.text-p{
-    font-weight: 60px;
+#text-p{
+    margin: 50px
+    border: 5px solid grey;
 }
 #p-1{
     color: brown;
     margin: 150px;
     border: 5px solid grey;
     padding: 10px;
+}
+#ln-w{
+    background-color: greenyellow;
+    box-shadow: auto black;
 }
