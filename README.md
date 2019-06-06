@@ -6,10 +6,11 @@ Moringa PREP Charles Osoro personal Triangle tracker Individual Projects
 #### Author  **{Charles Onkoba https://github.com/chaloo56?tab=repositories}**
 ## Description
 {This is a program that checks all sides of a triangle to make sure that the sides meet the required triangle properties; for example equilateral triangle with equal sides should give the output as same as the triangle itself  }
+the user is required to enter the three sides of a tringle with real values more than zero 
 ## Setup/Installation Requirements
 * git clone url: https://github.com/chaloo56/triangle-tracker.git
 * cd my triangle-tracker
-* open index.html from a browser
+* Load the gh-pages and ave a view on your favorite web browser mostly chrome
 * 
 
 ## Technologies Used
