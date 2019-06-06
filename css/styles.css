@@ -10,3 +10,9 @@
 .text-p{
     font-weight: 60px;
 }
+#p-1{
+    color: brown;
+    margin: 150px;
+    border: 5px solid grey;
+    padding: 10px;
+}
